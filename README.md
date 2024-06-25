@@ -64,6 +64,9 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+<a href="https://soliditylang.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Solidity%20-%2314354C.svg?style=plastic&logo=solidity&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
