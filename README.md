@@ -1,35 +1,29 @@
 <h1 align="center">Hi , I'm Zohaib Saddiqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/zohaib-SoftwareEngineer"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/zohaib-SoftwareEngineer"><img src="https://readme-typing-svg.herokuapp.com?lines=Blockchain+FullStack+DevOps;Aspiring%20BlockChain%20(Private,Public);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Backend%20Developer;Frontend%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
-- Bachlor's in Computer Science from `Superior University` | Data Scientist (ML, DL, NLP) | Generative Ai | AIOPS | Cloud Computing
-- Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, Generative Ai, Proficient in Data Science with focus on challenging businesses problems.
+- Bachlor's in Computer Science from `University Of Lahore` | BlockChain | FullStack (Frontend - Backend) | NFT | DevOps | Cloud Computing
+- Intresting in `FullStack/Blockchain`, BlockChain (Private, Public) , Cloud Computing, ReactJs, NextJS, NodeJs, Solidity, Proficient in FullStack Development with focus on challenging businesses problems.
 
 ### Technology Stacks:
 
 **Core/In-depth/Practical Knowledge in:**
 
-1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
-2) Data Manipulation with Pandas, Numpy, Streamlit etc.
-3) Data Visualization with Seaborn, Matplotlib.
-4) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-5) In-depth knowledge of Statistics.
-6) Tensorflow 
-7) Pytorch.
-8) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
-9) Knowledge In AIOPS.
-10) Github 
-11) Data Version Control (DVC).
-12) Mlflow.
-13) Dockers.
-14) Generative Ai
-15) Tensorflow
-16) Keras
-17) MongoDB, Postgresql, Firebase Mysql , Sqlite
-18) Hyperledger-Fabric Private BlockChain
-19) Python | TypeScript | Javascript
+1) NodeJs, ReactJs, NextJs
+2) EVM-Based - Public Blockchain
+3) Hyperledger-Fabric - Private BlockChain
+4) NFT (ERC 721, ERC 721A, ERC 1155)
+5) Token (ERC 720) 
+6) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
+7) Knowledge In DevOps
+8) Github 
+9) Data Version Control (DVC)
+10) Dockers
+11) BlockChain Ledger CouchDB
+12) MongoDB, Postgresql, Firebase, Mysql , Sqlite
+13) Solidity | TypeScript | Javascript
 
 <br>
 
